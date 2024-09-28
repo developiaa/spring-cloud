@@ -1,3 +1,3 @@
 rootProject.name = "cloud"
 
-include("gateway")
+include("gateway", "config")
